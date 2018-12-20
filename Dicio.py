@@ -2,7 +2,6 @@
 import requests
 import json
 
-# TODO: replace with your own app_id and app_key
 app_id = '7262a97c'
 app_key = '3f1cfbb08e1a01492a46bbe447bd9722'
 language = 'es'
