@@ -2,8 +2,8 @@
 import requests
 import json
 
-app_id = '7262a97c'
-app_key = '3f1cfbb08e1a01492a46bbe447bd9722'
+app_id = 'seu id aqui'
+app_key = 'Sua chave aqui'
 language = 'es'
 word_id = 'rojo'
 url = 'https://od-api.oxforddictionaries.com:443/api/v1/entries/' + language + '/' + word_id.lower()
