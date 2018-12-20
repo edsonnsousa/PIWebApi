@@ -1,7 +1,7 @@
 # WEB API
 _____________
 
-<strong>IBGE <strong><p>
+<strong>IBGE (Estados e Municipios) <strong><p>
 Informações gerais sobres estados e municipios <p>
 https://servicodados.ibge.gov.br/api/docs/localidades?versao=1 <p>
   
